@@ -1,0 +1,598 @@
+﻿Area;Location;Address;City;State;Country;Pharmacist;Code;Selection
+Villatuerta;Abárzuza;Carretera de Arizala 1;Abárzuza;Navarra;Spain;Pascual Echavarri, Miguel Angel;F00242;NO
+Cascante;Ablitas;Avenida de Barillas 3;Ablitas;Navarra;Spain;Navarro Mayayo, Maria Teresa;F00024;NO
+Cascante;Ablitas;Plaza Fueros 9;Ablitas;Navarra;Spain;Escalada Abraham, Montserrat;F00422;NO
+Sangüesa;Aibar;Carretera Sangüesa 12;Aibar;Navarra;Spain;Alzueta Lusarreta, Esther Maria;F00106;NO
+Allo;Allo;Carretera de Lerin 28;Allo;Navarra;Spain;Roncal Garraza, Maria Teresa;F00227;NO
+Altsasu/Alsasua;Alsasua;Calle García Ximénez 8;Alsasua;Navarra;Spain;Argüelles Santesteban, Eva;F00020;NO
+Altsasu/Alsasua;Alsasua;Calle Alzania 1;Alsasua;Navarra;Spain;Luis de Redin Subira, Maria Rosa;F00159;NO
+Altsasu/Alsasua;Alsasua;Plaza Zumalacárregui 1;Alsasua;Navarra;Spain;Larumbe/Garcia Irurita/Chicon, Lucia/Angel Jose;F00367;NO
+Altsasu/Alsasua;Alsasua;Calle La Paz 47;Alsasua;Navarra;Spain;Perea/Uriarte Garcia/Totoricagüena, Juan A./Eva;F00449;NO
+Altsasu/Alsasua;Alsasua;Calle Santa Cruz 23;Alsasua;Navarra;Spain;Fernandez Saenz, Mercedes;F00478;NO
+Altsasu/Alsasua;Alsasua;Travesia Intxostia 3;Alsasua;Navarra;Spain;Pascual Gallego, Antonio;F00481;NO
+Altsasu/Alsasua;Alsasua;Calle Intxaurrondo 2;Alsasua;Navarra;Spain;Irisarri/Eguaras Aguirre/Goñi Milagros/Irune;F00512;NO
+Ancin-Améscoa;Ancín;Carretera Vitoria 20;Ancín;Navarra;Spain;Alen Fernandez, Ruben;F00246;NO
+San Adrian;Andosilla;Plaza de San Cosme y San Damián 5;Andosilla;Navarra;Spain;Mugica Sanchez, Ainara;F00019;NO
+San Adrian;Andosilla;Calle Hilarión Eslava 10;Andosilla;Navarra;Spain;Moreno Martinez, Luisa Mª;F00382;NO
+San Adrian;Andosilla;Calle Porvenir 79;Andosilla;Navarra;Spain;Fernandez Perez, Eduardo;F00516;NO
+Ansoain;Ansoáin;Calle Lapurbide 9;Ansoáin;Navarra;Spain;Chasco Ugarte, Julia;F00230;SI
+Ansoain;Ansoáin;Calle Divina Pastora 11;Ansoáin;Navarra;Spain;Yarnoz Izquierdo, Ana;F00204;SI
+Ansoain;Ansoáin;Calle Canteras 25;Ansoáin;Navarra;Spain;Lecumberri Martinez, Sagrario;F00368;SI
+Ansoain;Ansoáin;Plaza Rafael Alberti 3;Ansoáin;Navarra;Spain;Olaiz/Romero Vera/Munilla, Beatriz/Luis Javier;F00423;SI
+Ansoain;Ansoáin;Calle Canteras 6;Ansoáin;Navarra;Spain;Gaston Lujambio, Beatriz;F00439;SI
+Ansoain;Ansoáin;Calle Hermanos Noáin 8;Ansoáin;Navarra;Spain;Aycart Villaverde, Noa Maria;F00576;SI
+Aoiz;Aoiz;Calle Domingo Elizondo 4;Aoiz;Navarra;Spain;Lera Toston, Maria Yolanda;F00096;NO
+Aoiz;Aoiz;Calle Nueva 11;Aoiz;Navarra;Spain;Bados Irisarri, Susana;F00646;NO
+Aoiz;Aoiz;Calle Landakoa 7;Aoiz;Navarra;Spain;Bengoetxea Reta, Ainhoa;F00668;NO
+Lesaka;Arantza;Calle Salbatore 6;Arantza;Navarra;Spain;Echeverria Eciolaza, Maria Luisa;F00270;NO
+Etxarri-Aranatz;Arbizu;Calle Fernando Urkia 7;Arbizu;Navarra;Spain;Razquin Lizarraga, Miren Abarne;F00256;NO
+Valtierra-Cadreita;Arguedas;Plaza San Miguel 4;Arguedas;Navarra;Spain;Samanes Sastre, Ignacio;F00095;NO
+Auritz/Burguete;Aribe;Calle Santa María 24;Aribe;Navarra;Spain;De Carlos Iriarte, Maria Carmen;F00273;NO
+Elizondo;Arizkun;Calle Tximindo Kalea 48;Arizkun;Navarra;Spain;Arruti Peña, Coronacion;F00386;NO
+Villava/Atarrabia;Arre;Calle Trinidad 17;Arre;Navarra;Spain;Cobos Lucea, Laura;F00250;SI
+Irurtzun;Arribe;Calle Barrio de Orella 1;Arribe;Navarra;Spain;Garmendia Goicoechea, Arantzazu;F00267;NO
+Allo;Arróniz;Plaza de los Fueros 15;Arróniz;Navarra;Spain;Garcia Zuñiga, Ana;F00238;NO
+Artajona;Artajona;Calle Lascarro s/n;Artajona;Navarra;Spain;Zapata Cilveti, Maria;F00031;NO
+Artajona;Artajona;Calle La Cruz 51;Artajona;Navarra;Spain;Jimeno Garcia, Maria;F00581;NO
+Buztintxuri;Artica;Calle María Domínguez 19;Artica;Navarra;Spain;Rosano Bernabe, Eva;F00642;SI
+Buztintxuri;Artica;Calle María Domínguez 1;Artica;Navarra;Spain;Goyeneche Azcoiti, Fernando;F00652;SI
+Buztintxuri;Artica;Calle María Moliner 2;Artica;Navarra;Spain;Prados Lana, Beatriz;F00678;SI
+Buztintxuri;Artica;Calle Madres de la Plaza de Mayo 32;Artica;Navarra;Spain;Aguado Menendez, Carmen;F00739;SI
+Auritz/Burguete;Burguete;Plaza Hermilio de Oloriz 3;Burguete;Navarra;Spain;Capilla Frias, Inmaculada;F00239;NO
+Estella;Ayegui;Calle Carretera 8;Ayegui;Navarra;Spain;Chasco Urabayen, Jose Maria;F00275;NO
+Estella;Ayegui;Calle Carretera 18;Ayegui;Navarra;Spain;Barbarin Garcia, Ana Isabel;F00371;NO
+San Adrian;Azagra;Calle Ramón y Cajal 34;Azagra;Navarra;Spain;Sainz de Medrano Sainz, Jorge;F00136;NO
+San Adrian;Azagra;Calle Gregorio Berisa 11-Río Ega;Azagra;Navarra;Spain;Martinez Prado, Jose Miguel;F00469;NO
+San Adrian;Azagra;Plaza De la Constitución 1;Azagra;Navarra;Spain;Luri Dendarieta, Mª Luisa;F00575;NO
+Etxarri-Aranatz;Bakaiku;Calle Galtzada 1;Bakaiku;Navarra;Spain;Urbizu Azazeta, Idoia;F00349;NO
+Barañain;Barañain;Avenida Comercial 4;Barañain;Navarra;Spain;Cubillas Barricart, Beatriz;F00183;SI
+Barañain;Barañain;Calle Pedro Bidagor s/n;Barañain;Navarra;Spain;Iribas Latour, Ignacio;F00218;SI
+Barañain;Barañain;Calle Pedro Bidagor 5 trasera;Barañain;Navarra;Spain;Diaz Barcos, Laura;F00315;SI
+Barañain;Barañain;Plaza Castaños 1;Barañain;Navarra;Spain;Muga/Sillero Rodriguez/Borras, Juan/Concepcion;F00333;SI
+Barañain;Barañain;Avenida de Eulza 1;Barañain;Navarra;Spain;Arrese Villanueva, Blanca;F00336;SI
+Barañain;Barañain;Plaza de los Fueros 4;Barañain;Navarra;Spain;Lujambio Goizueta, Carolina;F00348;SI
+Barañain;Barañain;Calle Comunidad de la Rioja 3;Barañain;Navarra;Spain;Martinez Gurrea, Juan;F00356;SI
+Barañain;Barañain;Calle Cultura 7;Barañain;Navarra;Spain;Ciaurriz Garcia, Ana;F00361;SI
+Barañain;Barañain;Plaza Los Gorris 16;Barañain;Navarra;Spain;Fernandez Ajona, Natalia;F00435;SI
+Barañain;Barañain;Plaza Norte 6;Barañain;Navarra;Spain;Arpon/Guinea Pascual/Ochoa, T.Adoracion/Susana;F00443;SI
+Barañain;Barañain;Avenida Rascacielos 4;Barañain;Navarra;Spain;Cubillas Ruiz, Jose Javier;F00453;SI
+Barañain;Barañain;Avenida Ayuntamiento 7 trasera;Barañain;Navarra;Spain;Martinicorena Satrustegui, Gorka;F00547;SI
+Barañain;Barañain;Avenida Pamplona 28 - esquina Avda. del Valle;Barañain;Navarra;Spain;Sarasibar Sagües, Maria Jesus;F00556;SI
+Barañain;Barañain;Plaza de los Tilos 4;Barañain;Navarra;Spain;Aranguren Indurain, Pedro;F00719;SI
+Tafalla;Barásoain;Calle Doctor Navarro 16;Barásoain;Navarra;Spain;Loitegui Urzaiz, Victorina;F00089;NO
+Los Arcos;Bargota;Calle Real 12;Bargota;Navarra;Spain;Lazaro Mari, Maria Carmen;F00302;NO
+Olite;Beire;Carrera de Aragón 12;Beire;Navarra;Spain;Guruchet Hernandez, Amaia;F00304;NO
+Lesaka;Bera;Calle Kanttonberri 8 bajo;Bera;Navarra;Spain;Apezteguia Sanjurjo, Maria Luisa;F00016;NO
+Lesaka;Bera;Plaza de los Fueros 6;Bera;Navarra;Spain;Fernandez Diez, Arantzazu;F00353;NO
+Lesaka;Bera;Calle Bidasoa 43;Bera;Navarra;Spain;Lasaga Recondo, Aloña;F00362;NO
+Lesaka;Bera;Calle Bidasoa 14 bajo;Bera;Navarra;Spain;Sanz Goya, Maria Jose;F00370;NO
+Lesaka;Bera;Calle Leguía 31;Bera;Navarra;Spain;Lasarte Goya, Amalia;F00451;NO
+Artajona;Berbinzana;Calle Visto 7;Berbinzana;Navarra;Spain;Perez de Eulate Urrea, Mª Jose;F00243;NO
+Artajona;Berbinzana;Calle Asunción 2;Berbinzana;Navarra;Spain;Suescun Andueza, Maria Angeles;F00617;NO
+Noain;Beriáin;Plaza Larre 6;Beriáin;Navarra;Spain;Montero Macarro, Manuel;F00173;SI
+Noain;Beriáin;Avenida Madrid 26;Beriáin;Navarra;Spain;Martin Esteban, David Javier;F00452;SI
+Noain;Beriáin;Plaza Sierra del Perdón 16;Beriáin;Navarra;Spain;Soteras Ramirez, Mª Teresa;F00515;SI
+Berriozar;Berriosuso;Calle Santa Eulalia 31 bajo;Berriosuso;Navarra;Spain;Valle Luna, Montserrat;F00750;NO
+Berriozar;Berriozar;Calle Kaleberri 16;Berriozar;Navarra;Spain;Diaz Garcia, Juan Miguel;F00187;SI
+Berriozar;Berriozar;Calle Etxaburua. 10;Berriozar;Navarra;Spain;Ongay Cordon, Javier;F00276;SI
+Berriozar;Berriozar;Calle Iruñalde 4;Berriozar;Navarra;Spain;Perdigon Vara, Maria Carmen;F00358;SI
+Berriozar;Berriozar;Avenida Guipúzcoa 59;Berriozar;Navarra;Spain;Sanchez Dominguez, Irene;F00401;SI
+Berriozar;Berriozar;Calle Lantzeluze 80;Berriozar;Navarra;Spain;Erneta Azanza, Aurora;F00415;SI
+Berriozar;Berriozar;Calle Errekerte 1;Berriozar;Navarra;Spain;Urdaniz/Garin Ostiz/Aguirrebeña Begoña/Beatriz;F00448;SI
+Berriozar;Berriozar;Calle Ardantzeta 1;Berriozar;Navarra;Spain;Bautista Fernandez, Ana Maria;F00641;SI
+Irurtzun;Betelu;Calle Mayor 5;Betelu;Navarra;Spain;Carrillo Ruiz, Custodia Angeles;F00529;NO
+Buñuel;Buñuel;Calle Mayor 58;Buñuel;Navarra;Spain;de Gregorio Nogueras, Mercedes Paloma;F00092;NO
+Buñuel;Buñuel;Calle San Ignacio 1;Buñuel;Navarra;Spain;Andres Aranda, Francisco Javier;F00479;NO
+Burlada;Burlada;Calle Mayor 24;Burlada;Navarra;Spain;Gimeno Bosch, Lina;F00059;NO
+Burlada;Burlada;Calle Merindad de Sangüesa 3;Burlada;Navarra;Spain;Colom/Perez Lemaitre/Pardo de Vera, Mateo/Ana;F00179;NO
+Burlada;Burlada;Calle Joaquin Azkarate 14;Burlada;Navarra;Spain;Iribertegui Villar, Manuel Fermin;F00199;NO
+Burlada;Burlada;Calle Hilarión Eslava 22;Burlada;Navarra;Spain;Ajuria Sotillo, Maria Jesus;F00211;NO
+Burlada;Burlada;Calle Ronda de las Ventas 15-17;Burlada;Navarra;Spain;Garcia/Ochoa Castillejo/Garcia Mª Carmen/Monica;F00345;NO
+Burlada;Burlada;Calle San Blas 5;Burlada;Navarra;Spain;Sultan Lanzas, Elena Lucia;F00346;NO
+Burlada;Burlada;Calle Merindad de Sangüesa 21;Burlada;Navarra;Spain;Lopez Vaquera, Unzizu;F00355;NO
+Burlada;Burlada;Calle Ronda de las Ventas 11;Burlada;Navarra;Spain;Uriz Peman, Maria Dolores;F00489;NO
+Burlada;Burlada;Calle Landazabal 1;Burlada;Navarra;Spain;Cortes Izco, Lourdes;F00498;NO
+Burlada;Burlada;Calle La Fuente 2;Burlada;Navarra;Spain;Diez de Ulzurrun Bernardez, Maria Dolores;F00519;NO
+Burlada;Burlada;Calle Ezpondoa 9;Burlada;Navarra;Spain;Beruete Baztan, Raquel;F00523;NO
+Burlada;Burlada;Calle Mayor 54;Burlada;Navarra;Spain;Jareño Diaz, Jesus;F00653;NO
+Burlada;Burlada;Calle Mayor 13;Burlada;Navarra;Spain;Purroy Sanz, Cristina;F00705;NO
+Burlada;Burlada;Avenida Erripagaña 19;Burlada;Navarra;Spain;Barricarte Asiain, Carlos;F00735;NO
+Burlada;Burlada;Calle Lisboa 1;Burlada;Navarra;Spain;Lizarraga Baigorri, Gema;F00738;NO
+Buñuel;Cabanillas;Calle La Vicera 6;Cabanillas;Navarra;Spain;Paz Aperte, Montserrat;F00283;NO
+Viana;Cabredo;Calle Mayor 8 Bis;Cabredo;Navarra;Spain;Lumbreras Casis, Isabel;F00317;NO
+Valtierra-Cadreita;Cadreita;Calle San Miguel 7;Cadreita;Navarra;Spain;Garcia Arrieta, Ana;F00065;NO
+Valtierra-Cadreita;Cadreita;Avenida Navarra 41 A;Cadreita;Navarra;Spain;Pina Garcia, Ana Maria;F00444;NO
+Valtierra-Cadreita;Cadreita;Avenida Navarra 8;Cadreita;Navarra;Spain;Cambra Goñi, Cristina;F00571;NO
+Olite;Caparroso;Calle Toluca 19;Caparroso;Navarra;Spain;Maldonado Hualde, Ruth;F00018;NO
+Olite;Caparroso;Calle Iñigo Arista 2;Caparroso;Navarra;Spain;Martin Jimenez, Manuel Alejandro;F00374;NO
+Olite;Caparroso;Calle Constitucion 14;Caparroso;Navarra;Spain;Aicua Redondo, Laura;F00744;NO
+San Adrian;Cárcar;Calle Salvador Ordoñez 7;Cárcar;Navarra;Spain;Perez Albeniz, Inmaculada;F00582;NO
+Carcastillo;Carcastillo;Calle Pósito s/n;Carcastillo;Navarra;Spain;Goena Iglesias, Rosario;F00066;NO
+Carcastillo;Carcastillo;Calle Mayor 17;Carcastillo;Navarra;Spain;Arbeloa Zabaleta, Maria Angeles;F00473;NO
+Cascante;Cascante;Plaza Fueros 3;Cascante;Navarra;Spain;Argerich/Argerich Lapuerta/Lapuerta, Ana/Marta;F00037;NO
+Cascante;Cascante;Calle Cesar 24, 26 y 28;Cascante;Navarra;Spain;Ochoa Jarauta, Sara;F00354;NO
+Cascante;Cascante;Calle Victoria 25;Cascante;Navarra;Spain;Galipienzo Jimenez, Marta;F00369;NO
+Sangüesa;Cáseda;Calle De la Cinta 1;Cáseda;Navarra;Spain;Aznarez Barrio, Arturo;F00254;NO
+Corella;Castejón;Plaza España 13;Castejón;Navarra;Spain;Sagardoy Aguado, Isabel;F00062;NO
+Corella;Castejón;Calle Merindades 18;Castejón;Navarra;Spain;Solana Belloso, Maria Rosario;F00400;NO
+Corella;Castejón;Calle Príncipe de Viana 31;Castejón;Navarra;Spain;Alonso Fernandez, Ruben;F00476;NO
+Cintruénigo;Cintruénigo;Calle Jose María Ligués 44;Cintruénigo;Navarra;Spain;Lozano Sanchez, Maria Jose;F00301;NO
+Cintruénigo;Cintruénigo;Calle Iñigo Arista 10;Cintruénigo;Navarra;Spain;Valero Hernandez, Mª Pilar;F00414;NO
+Cintruénigo;Cintruénigo;Calle Verónica 17;Cintruénigo;Navarra;Spain;Acosta Ballesta, Lucia;F00504;NO
+Cintruénigo;Cintruénigo;Avenida de la Estación 11;Cintruénigo;Navarra;Spain;Mediavilla Fernandez, Monica Asuncion;F00679;NO
+Cintruénigo;Cintruénigo;Calle Ribera 4;Cintruénigo;Navarra;Spain;Martinez Fernandez, Carla;F00745;NO
+Puente la reina;Cirauqui;Calle Portal 13;Cirauqui;Navarra;Spain;Clavero Tames, Ignacio;F00262;NO
+Cizur;Cizur Menor;Calle Irunbidea 2;Cizur Menor;Navarra;Spain;Iriarte Cemborain, Beatriz;F00309;SI
+Cizur;Cizur Menor;Plaza Baltxarran 5;Cizur Menor;Navarra;Spain;Piñot Montoliu, Marta;F00616;SI
+Noain;Cordovilla;Barrio La Morea s/n. Centro Comercial La Morea;Cordovilla;Navarra;Spain;Aranguren Letamendia, Emilia;F00311;NO
+Corella;Corella;Plaza Fueros 2;Corella;Navarra;Spain;Poyales Morales, Elena;F00094;NO
+Corella;Corella;Calle Santa Bárbara 44;Corella;Navarra;Spain;Poyales Morales, Maria Carmen;F00135;NO
+Corella;Corella;Calle Mayor 37;Corella;Navarra;Spain;Adrados Ortuño, Cristian;F00399;NO
+Corella;Corella;Calle Río Alhama 2;Corella;Navarra;Spain;Catalan/Andres Higueras/Fernandez, Alberto/Laura;F00495;NO
+Corella;Corella;Calle Teresa Saenz de Heredia 37-39;Corella;Navarra;Spain;Acedo Emmerich, Maria Teresa;F00565;NO
+Corella;Corella;Calle Tajadas 24 A;Corella;Navarra;Spain;Fernandez Saenz, Francisco;F00614;NO
+Corella;Corella;Calle Fitero 4;Corella;Navarra;Spain;Prieto Hernandez, Ana Maria;F00714;NO
+Buñuel;Cortes;Calle San Miguel 4 A;Cortes;Navarra;Spain;Rubio Frade, Mercedes;F00043;NO
+Buñuel;Cortes;Calle Aragón 7;Cortes;Navarra;Spain;Consuelo Virginia Puig Zafon;F00462;NO
+Buñuel;Cortes;Calle Lavadero 22;Cortes;Navarra;Spain;Lopez/Carcas Moreno/Sansuan Graciana/Jesus;F00554;NO
+Allo;Dicastillo;Calle Nueva 5;Dicastillo;Navarra;Spain;Sagasti Lacalle, Maria Dolores;F00100;NO
+Doneztebe/Santesteban;Santesteban;Calle Mercaderes 1;Santesteban;Navarra;Spain;Mendia Ibarra, Elvira Ainara;F00082;NO
+Doneztebe/Santesteban;Santesteban;Calle Mayor 6;Santesteban;Navarra;Spain;Echarte Subizar, Maider;F00396;NO
+Doneztebe/Santesteban;Santesteban;Calle Leitza 7;Santesteban;Navarra;Spain;Larrayoz Oses, Susana;F00437;NO
+Elizondo;Elizondo;Calle Jaime Urrutia 17;Elizondo;Navarra;Spain;Arrupea Plaza, Eduardo;F00068;NO
+Elizondo;Elizondo;Calle Santiago 62;Elizondo;Navarra;Spain;Garcia-Mata Elizondo, Fermin;F00421;NO
+Elizondo;Elizondo;Calle Francisco Joaquin Iriarte 2;Elizondo;Navarra;Spain;Guezuraga/Guezuraga Gil-Rodrigo/Gil-Rodrigo, Ramon/Maria Carmen;F00497;NO
+Berriozar;Erice;Calle Plazaola 2;Erice;Navarra;Spain;Miramon Muñoz, Marta;F00561;NO
+Auritz/Burguete;Erro;Calle San Esteban 80;Erro;Navarra;Spain;Urroz Lores, Maria Teresa;F00289;NO
+Los Arcos;Espronceda;Calle Picota 2;Espronceda;Navarra;Spain;Gonzalez Mendizabal, Domingo;F00330;NO
+Estella;Estella;Calle Baja Navarra 7 accesorio;Estella;Navarra;Spain;Goyache Sainz de Vicuña, Maria del Mar;F00026;NO
+Estella;Estella;Plaza Santiago 55;Estella;Navarra;Spain;Landa Naveros, Maria Rosario;F00028;NO
+Estella;Estella;Calle Mayor 70;Estella;Navarra;Spain;Manso Gorostola, Maria Milagros;F00029;NO
+Estella;Estella;Calle Mayor 20;Estella;Navarra;Spain;Fernandez Alvarez, Soliña;F00060;NO
+Estella;Estella;Plaza de los Fueros 8;Estella;Navarra;Spain;Gaston/Lopez de Dicastillo Ortigosa/Perez de Albeniz Sandra/Iranzu;F00071;NO
+Estella;Estella;Paseo de la Inmaculada 70;Estella;Navarra;Spain;Hernandez Gonzalez, Cristina;F00298;NO
+Estella;Estella;Calle Carlos II el Malo 1;Estella;Navarra;Spain;Echavarri Pascual, Maria Jose;F00307;NO
+Estella;Estella;Calle Carlos VII 2;Estella;Navarra;Spain;Garcia Garnica, Olga;F00378;NO
+Estella;Estella;Avenida Yerri 29;Estella;Navarra;Spain;Laspalas Manzanero, Sonia;F00384;NO
+Estella;Estella;Calle Espoz y Mina 1;Estella;Navarra;Spain;Torres Echeverria, Maria Jose;F00393;NO
+Estella;Estella;Calle San Francisco 6;Estella;Navarra;Spain;Pascual Blanco, Miguel Angel;F00420;NO
+Estella;Estella;Avenida Yerri 9;Estella;Navarra;Spain;Roncal Garraza, Maria;F00482;NO
+Estella;Estella;Calle Arieta 11;Estella;Navarra;Spain;Nagore Solano, Marta;F00503;NO
+Estella;Estella;Calle Dr. Huarte de San Juan 6;Estella;Navarra;Spain;Arza Elorz, Rafael;F00520;NO
+Estella;Estella;Calle Fray Diego 15;Estella;Navarra;Spain;Berraondo Aramendia, Marina;F00521;NO
+Estella;Estella;Avenida Yerri 6;Estella;Navarra;Spain;Roson Lete, Cristina;F00549;NO
+Estella;Estella;Plaza Amaiur 2;Estella;Navarra;Spain;Aguirre Encinas, Oihana;F00763;NO
+Lesaka;Etxalar;Calle Andatzeta 17;Etxalar;Navarra;Spain;Sagardoy Tanco, Mª Eugenia;F00113;NO
+Etxarri-Aranatz;Etxarri-Aranatz;Calle Larrañeta 17;Etxarri-Aranatz;Navarra;Spain;Martinez Aguinaga, Mercedes;F00039;NO
+Etxarri-Aranatz;Etxarri-Aranatz;Calle Burundabide 3;Etxarri-Aranatz;Navarra;Spain;Bacaicoa Ormazabal, Virginia;F00584;NO
+Orcoyen;Etxauri;Plaza Francisca Salinas 3;Etxauri;Navarra;Spain;Arnedillo Urricelqui, Monica;F00261;NO
+Ancin-Améscoa;Eulate;Calle Mayor 116;Eulate;Navarra;Spain;Aguirre Remirez, Florinda;F00284;NO
+Salazar;Ezcároz;Calle Rochapea 2;Ezcároz;Navarra;Spain;Vicente Collado, Maria Jose;F00287;NO
+Peralta;Falces;Avenida del Salvador 5;Falces;Navarra;Spain;Novoa Marotta, Nicolas;F00117;NO
+Peralta;Falces;Calle Corazón de Jesús 5;Falces;Navarra;Spain;Diaz/Eza Casas/Gascuña, Mercedes/Victoria;F00458;NO
+Cintruénigo;Fitero;Calle Mayor 7;Fitero;Navarra;Spain;Garro Ichaso, Olga;F00022;NO
+Cintruénigo;Fitero;Calle San Raimundo 14;Fitero;Navarra;Spain;Fernandez de Retana Mostajo, Marta;F00408;NO
+Tudela este;Fontellas;Avenida Tudela 1;Fontellas;Navarra;Spain;Rubio Muzas, Cesar;F00754;NO
+Peralta;Funes;Calle Ramon y Cajal 20;Funes;Navarra;Spain;Ursua Aisa, Laura;F00108;NO
+Peralta;Funes;Avenida Peralta 9;Funes;Navarra;Spain;Canto Martinez, Maria Luisa;F00580;NO
+Buñuel;Fustiñana;Calle Bardenas 12;Fustiñana;Navarra;Spain;Mendivil Gil, Maria Jose;F00072;NO
+Buñuel;Fustiñana;Calle Juan Pascual Esteban 4;Fustiñana;Navarra;Spain;Aracil Sanus, Maria del Carmen;F00590;NO
+Leitza;Goizueta;Calle Mayor 64;Goizueta;Navarra;Spain;Apecechea Lizaso, Luis Miguel;F00104;NO
+Huarte;Gorráiz;Plaza del Palacio 8;Gorráiz;Navarra;Spain;Iraizoz Irigoyen, Ana Maria;F00381;SI
+Huarte;Gorráiz;Camino de Ardanaz (Centro Comercial Gorraiz) s/n;Gorráiz;Navarra;Spain;Alforja/Alforja Castiella/Castiella, Maria Isabel/Maria Cristina;F00564;SI
+Huarte;Huarte;Calle El Ferial 7;Huarte;Navarra;Spain;Ormazabal Oyarbide, Maria Jose;F00054;SI
+Huarte;Huarte;Calle Zubiarte 26;Huarte;Navarra;Spain;Blanco Ruiz, Ildelina;F00432;SI
+Huarte;Huarte;Calle Pérez Goyena 1;Huarte;Navarra;Spain;Alvarez Guembe, Daniel;F00494;SI
+Huarte;Huarte;Calle Leandro Azcárate 7;Huarte;Navarra;Spain;Ilundain Erice, Esperanza;F00600;SI
+Huarte;Huarte;Calle Intxaurdia, 5. Centro Comercial Itaroa;Huarte;Navarra;Spain;Vallejos Huesa, Maria Josefa;F00611;SI
+Huarte;Huarte;Calle Zubiarte 1;Huarte;Navarra;Spain;Acosta Casado, Mª Dolores;F00756;SI
+Lesaka;Igantzi;Calle Lasaga 22;Igantzi;Navarra;Spain;Gonzalez Ayestaran, Tania;F00310;NO
+Elizondo;Irurita;Calle Mayor 4-B;Irurita;Navarra;Spain;Goñi Itoiz, Concepcion;F00279;NO
+Irurtzun;Irurtzun;Calle San Martín 5;Irurtzun;Navarra;Spain;Mutiloa Martirena, Ana Mª;F00073;NO
+Irurtzun;Irurtzun;Calle Amaya 4;Irurtzun;Navarra;Spain;Gastearena/Martirena Arraiza/Miqueo, Miguel/Jorge;F00387;NO
+Doneztebe/Santesteban;Ituren;Calle Consejo 12;Ituren;Navarra;Spain;Ruiz-Lopetedi Rodriguez, Jose Joaquin;F00272;NO
+Ultzama;Jauntsarats;Calle La Asunción 4;Jauntsarats;Navarra;Spain;Cabrero Cosgaya, Leire;F00303;NO
+Etxarri-Aranatz;Lakuntza;Calle Miguel Arregui 17;Lakuntza;Navarra;Spain;Aboitiz Izurieta, Lierni;F00244;NO
+Artajona;Larraga;Carretera de Estella 6;Larraga;Navarra;Spain;Osaba Arellano, Pilar;F00074;NO
+Artajona;Larraga;Calle Abaco 16;Larraga;Navarra;Spain;Cillero Marin, Olga;F00380;NO
+Artajona;Larraga;Calle Palanquera 18;Larraga;Navarra;Spain;Los Arcos Garcia, Maria Jesus;F00471;NO
+Ultzama;Larrainzar;Calle San Pedro 36;Larrainzar;Navarra;Spain;Aquerreta Ferraz, Jose Antonio;F00143;NO
+Ancin-Améscoa;Larrión;Carretera Urbasa 4;Larrión;Navarra;Spain;Armendariz Arrondo, Carmen;F00291;NO
+Leitza;Leitza;Calle Elbarren 36;Leitza;Navarra;Spain;Plaza/Arrupea Tuñon/Plaza Mª Teresa/Esther;F00110;NO
+Leitza;Leitza;Calle Lizarraga 7;Leitza;Navarra;Spain;Erbiti Larralde, Oihana;F00377;NO
+Leitza;Leitza;Calle Elbarren 52;Leitza;Navarra;Spain;Campos Mendoza, Marcia Zarela;F00472;NO
+Leitza;Leitza;Calle Elbarren 95;Leitza;Navarra;Spain;Larraya Astibia, Maria Isabel;F00513;NO
+Irurtzun;Lekunberri;Calle Aralar 43;Lekunberri;Navarra;Spain;Azpiroz/Zubiria Azpiroz/Azpiroz, Angeles/Maialen;F00127;NO
+Irurtzun;Lekunberri;Calle Aralar 25;Lekunberri;Navarra;Spain;Mendia Barriola, Miren Itziar;F00406;NO
+Allo;Lerín;Calle Teruel 5;Lerín;Navarra;Spain;Mendoza Morales, Ana Isabel;F00468;NO
+Lesaka;Lesaka;Plaza Bittiria 3;Lesaka;Navarra;Spain;Alzate Bazterretxea, Olga;F00491;NO
+Lesaka;Lesaka;Calle Bittiria 6;Lesaka;Navarra;Spain;Choperena Alzugaray, Maria Jose;F00506;NO
+Lesaka;Lesaka;Calle Albistur 39 G;Lesaka;Navarra;Spain;Irigoyen Irigoyen, Miren;F00669;NO
+Villatuerta;Lezáun;Plaza Mayor 3;Lezáun;Navarra;Spain;Ros Nestares, Carlos Javier;F00325;NO
+Etxarri-Aranatz;Lizarraga de Ergoiena;Calle Intxorreta 7;Lizarraga de Ergoiena;Navarra;Spain;Calvo Valero, Pilar;F00332;NO
+Lodosa;Lodosa;Avenida Diputación Foral 8;Lodosa;Navarra;Spain;Martinez Gurrea, David;F00017;NO
+Lodosa;Lodosa;Calle Los Huertos de Abajo 3B;Lodosa;Navarra;Spain;Yoldi Perez, Jesusa;F00438;NO
+Lodosa;Lodosa;Avenida de la Ribera 30;Lodosa;Navarra;Spain;Calvo Sola, Maria Teresa;F00525;NO
+Lodosa;Lodosa;Avenida Navarra 62;Lodosa;Navarra;Spain;Altuna Martinez, Isabel;F00544;NO
+Lodosa;Lodosa;Calle Centro Parroquial 3;Lodosa;Navarra;Spain;Beperet Andres, Ana Maria;F00553;NO
+Los Arcos;Los Arcos;Plaza Coso s/n;Los Arcos;Navarra;Spain;Azcona Beguiristain, María Jose;F00076;NO
+Los Arcos;Los Arcos;Calle Mayor 27;Los Arcos;Navarra;Spain;Ochoa Cortazar, Eva Maria;F00375;NO
+Sangüesa;Lumbier;Calle Cantón del Boticario 6;Lumbier;Navarra;Spain;Obispo Rebole, Alfonso;F00014;NO
+Sangüesa;Lumbier;Plaza El Claustro 2;Lumbier;Navarra;Spain;Saenz/Iturria Espelosin/Alzueta, Xabier/Amparo;F00394;NO
+Auritz/Burguete;Valcarlos;Calle Elizaldea 16;Valcarlos;Navarra;Spain;Garcia Navarro, David;F00321;NO
+Puente la reina;Mañeru;Plaza de los Fueros 1;Mañeru;Navarra;Spain;Alegre Navarro, Jaione;F00266;NO
+Berriozar;Marcaláin;Calle San Miguel 3;Marcaláin;Navarra;Spain;Ciordia Borunda, Cristina;F00308;NO
+Peralta;Marcilla;Calle Miguel Urmeneta 9;Marcilla;Navarra;Spain;Hernandez Boneta, Carolina;F00441;NO
+Peralta;Marcilla;Calle Ezequiel Moreno 6;Marcilla;Navarra;Spain;Fontan Sanz, Ana;F00727;NO
+Carcastillo;Mélida;Calle Zumalacárregui 30;Mélida;Navarra;Spain;Pascual Esteban, Maria Luisa;F00258;NO
+Lodosa;Mendavia;Calle Augusto Echeverría 36-38;Mendavia;Navarra;Spain;Pardo Garde, Eulogio;F00120;NO
+Lodosa;Mendavia;Calle Prado 6;Mendavia;Navarra;Spain;Salcedo Sainz, Sara;F00447;NO
+Lodosa;Mendavia;Calle Mayor 4;Mendavia;Navarra;Spain;Martinez de Espronceda Martinez, Jose Miguel;F00579;NO
+Puente la reina;Mendigorría;Calle Bernardino Ayala 8;Mendigorría;Navarra;Spain;Inchaurraga Iraeta, Juan Mª;F00248;NO
+Valtierra-Cadreita;Milagro;Calle Dos de Agosto 12 B;Milagro;Navarra;Spain;Hernandez Ramiro, Carlos;F00023;NO
+Valtierra-Cadreita;Milagro;Avenida San Juan, 15 bajo;Milagro;Navarra;Spain;Ariz Martinez, Iñigo;F00534;NO
+Valtierra-Cadreita;Milagro;Calle Ramón y Cajal 2;Milagro;Navarra;Spain;Preciado Cambra, Ana Carmen;F00620;NO
+Artajona;Miranda de Arga;Calle La Dehesa 9;Miranda de Arga;Navarra;Spain;Elizalde Sesma, Alejandra;F00675;NO
+Noain;Monreal;Calle Santa Bárbara 4;Monreal;Navarra;Spain;Barrena Sotes, Myriam;F00251;NO
+Cascante;Monteagudo;Avenida de los Fueros 23-25;Monteagudo;Navarra;Spain;Melero Iriarte, Cristina;F00035;NO
+Estella;Munián de la Solana;Calle Mayor 35 bajo;Munián de la Solana;Navarra;Spain;Perez Aguirre, Luis;F00764;NO
+Cascante;Murchante;Calle Mayor 84;Murchante;Navarra;Spain;Martinez Torres, Juan Lucas;F00078;NO
+Cascante;Murchante;Calle Plana 23;Murchante;Navarra;Spain;Lorente Simon, Maria Carmen;F00365;NO
+Cascante;Murchante;Calle Justicia 17;Murchante;Navarra;Spain;Simon Martinez, Lorena;F00366;NO
+Ancin-Améscoa;Murieta;Carrera Estella a Vitoria 23;Murieta;Navarra;Spain;Blanco Sanz, Lourdes;F00663;NO
+Carcastillo;Murillo el Fruto;Plaza del Ayuntamiento 1 Bajo;Murillo el Fruto;Navarra;Spain;Goya Arive, Cristina;F00097;NO
+Puente la reina;Muruzábal;Calle Eunate 4;Muruzábal;Navarra;Spain;Perez Trujillo, Maria Carmen;F00331;NO
+Mendillorri;Mutilva <> Mutiloa;Avenida Anaitasuna 11;Mutilva <> Mutiloa;Navarra;Spain;Rodriguez Muñoz, Alicia;F00758;SI
+Mendillorri;Mutilva;Avenida Pamplona 7;Mutilva;Navarra;Spain;Urbistondo Arotzarena, Maria Dolores;F00240;SI
+Mendillorri;Mutilva;Calle Ezquibel 11;Mutilva;Navarra;Spain;Ugarte Gonzalez, Begoña;F00389;SI
+Mendillorri;Mutilva;Calle Mayor 2;Mutilva;Navarra;Spain;Alzueta Pellicer, Maria;F00607;SI
+Mendillorri;Mutilva;Paseo Ibaialde 186;Mutilva;Navarra;Spain;Guerrero Martin, Marta;F00661;SI
+Mendillorri;Mutilva;Calle Santxiki 130;Mutilva;Navarra;Spain;Leone Puncel, Alfonso;F00737;SI
+Noain;Noáin;Calle Real 27 A;Noáin;Navarra;Spain;Garisoain Otero, Ana;F00188;SI
+Noain;Noáin;Calle Real 36;Noáin;Navarra;Spain;Vega/Errea Alonso/Gorriz Maria Jesus/Yolanda;F00398;SI
+Noain;Noáin;Calle Agrupacion Los Porches 1;Noáin;Navarra;Spain;Garcia Ruiz, Maria Pilar;F00426;SI
+Noain;Noáin;Calle Real 61;Noáin;Navarra;Spain;Medrano Senosiain, Estela I.;F00587;SI
+Noain;Noáin;Calle Real 5;Noáin;Navarra;Spain;Hernandez Pons, Nohelia;F00741;SI
+Puente la reina;Obanos;Calle Infanzones 15;Obanos;Navarra;Spain;Bidegain Aizpun, Julen;F00234;NO
+Salazar;Ochagavía;Calle Urrutia 31;Ochagavía;Navarra;Spain;Eslava Ezcurra, Maria del Carmen;F00295;NO
+Ultzama;Olagüe;Calle San Juan 7;Olagüe;Navarra;Spain;Marcotegui Goñi, Cristina;F00278;NO
+Altsasu/Alsasua;Olazagutía;Calle Mayor 30;Olazagutía;Navarra;Spain;Etxagibel Martinez, Olatz;F00030;NO
+Altsasu/Alsasua;Olazagutía;Calle San Ignacio 10;Olazagutía;Navarra;Spain;Marquiegui Rodriguez, Begoña;F00566;NO
+Olite;Olite;Calle Cerco de Fuera 18;Olite;Navarra;Spain;Velasco Bezunartea, Maria Luisa;F00050;NO
+Olite;Olite;Ronda del Castillo 2;Olite;Navarra;Spain;Salanueva de la Torre, Cristina;F00417;NO
+Olite;Olite;Plaza Del Fosal 1;Olite;Navarra;Spain;Pellejero Balduz, Maria Jose;F00433;NO
+Orcoyen;Orkoien;Plaza Iturgain 6;Orkoien;Navarra;Spain;Garin Fernandez, Laura;F00402;SI
+Orcoyen;Orkoien;Paseo José Saramago 11;Orkoien;Navarra;Spain;Mateo Velazquez, Alberto;F00651;SI
+Elizondo;Oronoz;Calle Santa María 33;Oronoz;Navarra;Spain;Mariñelarena Apezteguia, Patricia;F00442;NO
+Orcoyen;Ororbia;Calle Abajita Bidea 2;Ororbia;Navarra;Spain;Goñi Lorente, Manuel Ignacio;F00292;NO
+Villatuerta;Oteiza;Calle San Miguel 17;Oteiza;Navarra;Spain;Aznarez Clemente, Esteban Jose;F00241;NO
+Azpilagaña;Pamplona;Calle Pedro Aranaz 8;Pamplona;Navarra;Spain;Olloqui Larumbe, Olga;F00235;SI
+Azpilagaña;Pamplona;Avenida Zaragoza 44;Pamplona;Navarra;Spain;Sanjuan/Sanjuan Duran/Duran, David/Sergio;F00152;SI
+Azpilagaña;Pamplona;Calle Buenaventura Iñiguez 16;Pamplona;Navarra;Spain;Bengoechea Marco, Pedro Miguel;F00163;SI
+Azpilagaña;Pamplona;Calle Abejeras 2;Pamplona;Navarra;Spain;Goyena Ruiz De Alda, Amelia;F00165;SI
+Azpilagaña;Pamplona;Calle Rinaldi 25;Pamplona;Navarra;Spain;Vilariño Ariz, Martina Dolores;F00172;SI
+Azpilagaña;Pamplona;Calle Abejeras 15;Pamplona;Navarra;Spain;Puertas Arbizu, Francisco Javier;F00185;SI
+Azpilagaña;Pamplona;Calle Iturrama 13;Pamplona;Navarra;Spain;Garcia Diaz, Ana;F00196;SI
+Azpilagaña;Pamplona;Calle San Juan Bosco 11;Pamplona;Navarra;Spain;Aguirre Redondo, Maria;F00212;SI
+Azpilagaña;Pamplona;Calle Miguel Astráin 15;Pamplona;Navarra;Spain;Aranaz Flamarique, Jesus;F00412;SI
+Azpilagaña;Pamplona;Calle Luis Morondo 10;Pamplona;Navarra;Spain;Garcia Perez, Gloria Maria;F00470;SI
+Azpilagaña;Pamplona;Avenida Sancho El Fuerte 15;Pamplona;Navarra;Spain;Alvarez Santos, Ana Maria;F00586;SI
+Azpilagaña;Pamplona;Calle Abejeras 47;Pamplona;Navarra;Spain;Funes Barbarin, Gabriel Maria;F00612;SI
+Azpilagaña;Pamplona;Calle Alfonso el Batallador 9;Pamplona;Navarra;Spain;Beñaran/Lasheras, Arocena/Carbajo, Susana/Soledad;F00682;SI
+Buztintxuri;Pamplona;Avenida Guipúzcoa 16;Pamplona;Navarra;Spain;Arrastia Diaz, Asuncion;F00508;SI
+Buztintxuri;Pamplona;Calle Ventura Rodríguez 110;Pamplona;Navarra;Spain;El Idrissi El Morabet, Abdellatif;F00531;SI
+Buztintxuri;Pamplona;Calle Martínez de Ubago 18;Pamplona;Navarra;Spain;Bigas/Muruzabal Berrozpe/Pabolleta, Sylvia/Maria Angeles;F00608;SI
+Buztintxuri;Pamplona;Calle Santos Ochandategui 59;Pamplona;Navarra;Spain;Garrido Lorenzo, Eva;F00662;SI
+Buztintxuri;Pamplona;Paseo Santa Lucía 26;Pamplona;Navarra;Spain;Fabo Sangüesa, Estela;F00665;SI
+Buztintxuri;Pamplona;Paseo Buztintxuri 16;Pamplona;Navarra;Spain;Lopez Cerro, Francisca;F00712;SI
+Buztintxuri;Pamplona;Avenida Guipuzcoa 40;Pamplona;Navarra;Spain;Ezpeleta/Viscarret Iturralde/Aranzadi, Mª Pilar/Lucia;F00715;SI
+Casco viejo;Pamplona;Calle Chapitela 4;Pamplona;Navarra;Spain;Castellot Arechederra, Nerea;F00001;SI
+Casco viejo;Pamplona;Plaza Conde Oliveto 1;Pamplona;Navarra;Spain;Arrechea Bidaur, Lourdes;F00002;SI
+Casco viejo;Pamplona;Calle Estafeta 87;Pamplona;Navarra;Spain;Iturria Sarasibar, Pedro;F00006;SI
+Casco viejo;Pamplona;Calle Chapitela 22;Pamplona;Navarra;Spain;Gabas Aznarez, Maria Pilar;F00007;SI
+Casco viejo;Pamplona;Calle San Saturnino 12;Pamplona;Navarra;Spain;Miramon Royo, Cecilia;F00008;SI
+Casco viejo;Pamplona;Plaza San Nicolás 74;Pamplona;Navarra;Spain;Iragui Iraola, Maria Jose;F00013;SI
+Casco viejo;Pamplona;Calle Curia 2;Pamplona;Navarra;Spain;Garate/Beltran Garcia/Garate Sagrario/Idoya;F00084;SI
+Casco viejo;Pamplona;Calle Mayor 62;Pamplona;Navarra;Spain;Planas Lasa, Leire;F00085;SI
+Casco viejo;Pamplona;Calle Nueva 1;Pamplona;Navarra;Spain;Maeztu Goicoechea, Laura;F00087;SI
+Casco viejo;Pamplona;Calle Zapatería 25;Pamplona;Navarra;Spain;Aguinaga Roustan, Roberto;F00099;SI
+Casco viejo;Pamplona;Calle Ciudadela 1;Pamplona;Navarra;Spain;Irigoyen Roitegui, Oihane;F00105;SI
+Casco viejo;Pamplona;Calle Javier 16;Pamplona;Navarra;Spain;Taberna Villanueva, Alejandra;F00150;SI
+Casco viejo;Pamplona;Plaza Castillo 25;Pamplona;Navarra;Spain;Ruiz Bacaicoa, Francisco Javier;F00154;SI
+Casco viejo;Pamplona;Calle Tudela 1;Pamplona;Navarra;Spain;Lorca Mico, Soledad;F00160;SI
+Casco viejo;Pamplona;Calle Yanguas y Miranda 17;Pamplona;Navarra;Spain;Marfil Garcia, Alberto;F00205;SI
+Casco viejo;Pamplona;Calle Navas de Tolosa 27;Pamplona;Navarra;Spain;Aliaga Perez, Ana Maria;F00216;SI
+Casco viejo;Pamplona;Calle Sandoval 4;Pamplona;Navarra;Spain;Carrasco Fernandez, Raquel;F00359;SI
+Casco viejo;Pamplona;Calle Yanguas y Miranda (Estación de autobuses) 2;Pamplona;Navarra;Spain;Atozqui Arrondo, Leyre;F00666;SI
+Casco viejo;Pamplona;Calle Plazaola 2;Pamplona;Navarra;Spain;Calahorra Vidarte, Alberto;F00708;SI
+Chantrea;Pamplona;Plaza Chantrea 6;Pamplona;Navarra;Spain;Urtasun Sanz, Rosario;F00063;SI
+Chantrea;Pamplona;Avenida Villava 51 - A;Pamplona;Navarra;Spain;Estebanez Santesteban, Sara;F00145;SI
+Chantrea;Pamplona;Plaza Puente la Reina 12;Pamplona;Navarra;Spain;Martinez Subiza, Laura;F00164;SI
+Chantrea;Pamplona;Calle San Cristóbal 16;Pamplona;Navarra;Spain;Ruiz Puertas, Nuria;F00186;SI
+Chantrea;Pamplona;Plaza Ezcaba 13;Pamplona;Navarra;Spain;Fernandez Mencia, Carmen;F00189;SI
+Chantrea;Pamplona;Calle Valtierra 20;Pamplona;Navarra;Spain;De Irizar/Ruiz Giral/De Irizar, Mª Josefa/Mª Pilar;F00198;SI
+Chantrea;Pamplona;Calle Azoz 5;Pamplona;Navarra;Spain;Vega Ortega, Antonio;F00206;SI
+Chantrea;Pamplona;Calle Villafranca 1;Pamplona;Navarra;Spain;Igoa Goñi, Raquel;F00207;SI
+Chantrea;Pamplona;Avenida Villava 47;Pamplona;Navarra;Spain;Ruiz-Capillas Martinez, Elisa Maria;F00213;SI
+Chantrea;Pamplona;Calle Mendigorría 16;Pamplona;Navarra;Spain;Luquin Juaniz, Asuncion;F00222;SI
+Chantrea;Pamplona;Calle Cuenca de Pamplona 53-55;Pamplona;Navarra;Spain;Martin Sedano, Maria Asuncion;F00457;SI
+Chantrea;Pamplona;Calle Villafranca 16;Pamplona;Navarra;Spain;Herrero Gonzalez, Maria Carmen;F00475;SI
+Chantrea;Pamplona;Plaza Sabicas 3;Pamplona;Navarra;Spain;Macia Soro, Beatriz Francisca;F00621;SI
+Chantrea;Pamplona;Paseo Donantes de Sangre 3;Pamplona;Navarra;Spain;Lopez Azpiazu, Isabel;F00636;SI
+Chantrea;Pamplona;Calle Santesteban 4;Pamplona;Navarra;Spain;Belzunce Manterola, Gaston;F00658;SI
+Chantrea;Pamplona;Calle Paseo Donantes de Sangre 25;Pamplona;Navarra;Spain;Kildal Oquiñena, Anne;F00724;SI
+Chantrea;Pamplona;Calle Fermin Daoiz 4;Pamplona;Navarra;Spain;Arteche Urtasun, Eduardo;F00780;SI
+Echavacoiz;Pamplona;Avenida Pamplona 15;Pamplona;Navarra;Spain;Palma/Sagues Carazo/Erro, Mercedes/Blanca;F00003;SI
+Echavacoiz;Pamplona;Calle Nicanor Beistegui 10;Pamplona;Navarra;Spain;Ruiz Sagaseta De Ilurdoz, Blanca;F00223;SI
+Echavacoiz;Pamplona;Calle Grupo Urdánoz 2;Pamplona;Navarra;Spain;Garde Bergasa, Javier;F00319;SI
+Echavacoiz;Pamplona;Calle Virgen del Soto 2;Pamplona;Navarra;Spain;Guillen Lasheras, Rosa Maria;F00383;SI
+Echavacoiz;Pamplona;Avenida Pamplona 39;Pamplona;Navarra;Spain;Jimenez Angos, Claudia;F00409;SI
+Echavacoiz;Pamplona;Calle Remiro de Goñi 2;Pamplona;Navarra;Spain;Khayat, Raid;F00509;SI
+Echavacoiz;Pamplona;Avenida Pamplona 25;Pamplona;Navarra;Spain;Moreno Ceron, Encarnacion;F00628;SI
+Ermitagaña;Pamplona;Calle Benjamín de Tudela 21;Pamplona;Navarra;Spain;Cabiro Echeverria, Isabel;F00088;SI
+Ermitagaña;Pamplona;Calle Benjamín de Tudela 38;Pamplona;Navarra;Spain;Pellejero Garcia, Concepcion;F00137;SI
+Ermitagaña;Pamplona;Calle Irunlarrea 5;Pamplona;Navarra;Spain;Lorca Diaz, Ines;F00161;SI
+Ermitagaña;Pamplona;Calle Irunlarrea 26;Pamplona;Navarra;Spain;Amador Zamarreño, Jose Angel;F00170;SI
+Ermitagaña;Pamplona;Avenida Bayona 46;Pamplona;Navarra;Spain;Pedrero Yusto, Maria Paloma;F00182;SI
+Ermitagaña;Pamplona;Calle Jerónimo de Arbolanche 5;Pamplona;Navarra;Spain;Lalastra/Jauregui De La Fuente/Olaiz, Maria Asuncion/Ana;F00225;SI
+Ermitagaña;Pamplona;Calle Malón de Echaide 9;Pamplona;Navarra;Spain;Senosiain Murillo, Gloria;F00226;SI
+Ermitagaña;Pamplona;Calle Sancho Ramírez 3;Pamplona;Navarra;Spain;Almagro Fernandez-Blanco, Inmaculada;F00229;SI
+Ermitagaña;Pamplona;Paseo García de Nájera 1;Pamplona;Navarra;Spain;Jimenez Dominguez, Elena;F00350;SI
+Ermitagaña;Pamplona;Calle Bartolomé de Carranza 46;Pamplona;Navarra;Spain;Panadero Sanchez, Fernando;F00376;SI
+Ermitagaña;Pamplona;Calle Ermitagaña 7;Pamplona;Navarra;Spain;Piñeiro Gil, Maria Antonia;F00391;SI
+Ermitagaña;Pamplona;Calle Irunlarrea 52;Pamplona;Navarra;Spain;Angulo Lopez de Armentia, Elena;F00436;SI
+Ermitagaña;Pamplona;Calle Benjamín de Tudela 29;Pamplona;Navarra;Spain;Sesma Oiza,Maria Jesus;F00454;SI
+Ermitagaña;Pamplona;Calle Puente Miluce 2;Pamplona;Navarra;Spain;Navarro Zapatero, Maria Eugenia;F00480;SI
+Ermitagaña;Pamplona;Calle Bartolome Carranza 20;Pamplona;Navarra;Spain;Aldunate Martinez de Morentin, Saioa;F00532;SI
+Ermitagaña;Pamplona;Calle Pintor Paret 5;Pamplona;Navarra;Spain;Olaiz Ripero, Adriana;F00545;SI
+Ermitagaña;Pamplona;Calle Irunlarrea 19;Pamplona;Navarra;Spain;Menendez Garcia, Graciela;F00550;SI
+Ermitagaña;Pamplona;Calle Acella 5;Pamplona;Navarra;Spain;Urbasos Garzon, Ignacio;F00562;SI
+Ermitagaña;Pamplona;Paseo Mariano Arigita 4;Pamplona;Navarra;Spain;Ros Zuasti, Nuria;F00613;SI
+Ermitagaña;Pamplona;Avenida Barañain 17;Pamplona;Navarra;Spain;Villot Varela, Elena;F00728;SI
+II Ensanche;Pamplona;Calle Isabel Garbayo Ayala 9;Pamplona;Navarra;Spain;Alvarez/Alvarez Gutierrez/Gutierrez, Andrea/Malen;F00772;SI
+II Ensanche;Pamplona;Calle Tafalla 21;Pamplona;Navarra;Spain;Ventura Aristu, Pedro Javier;F00009;SI
+II Ensanche;Pamplona;Avenida Carlos III 6;Pamplona;Navarra;Spain;Guerendiain Irujo, Joana;F00010;SI
+II Ensanche;Pamplona;Calle García Castañón 10;Pamplona;Navarra;Spain;Remirez De Ganuza Fernandez, Elena;F00086;SI
+II Ensanche;Pamplona;Calle Aralar 39;Pamplona;Navarra;Spain;Estebanez Santesteban, Maria Victoria;F00131;SI
+II Ensanche;Pamplona;Calle Aralar 18;Pamplona;Navarra;Spain;Indurain Eraso, Ignacio;F00133;SI
+II Ensanche;Pamplona;Calle Amaya 22;Pamplona;Navarra;Spain;Sanjuan/Rovira Borda/Sanjuan, Maria Carmen/Primitivo;F00140;SI
+II Ensanche;Pamplona;Avenida Carlos III 63;Pamplona;Navarra;Spain;Basarte/Basarte Galbete/Galbete, Concepcion/Fernando;F00142;SI
+II Ensanche;Pamplona;Calle Bergamín 43;Pamplona;Navarra;Spain;Chocarro/Chocarro Garcia/Gomez, Luciano/Mª Camino;F00144;SI
+II Ensanche;Pamplona;Calle Bergamín 13;Pamplona;Navarra;Spain;Amilivia Alvarez, Miguel;F00146;SI
+II Ensanche;Pamplona;Plaza de La Libertad 13;Pamplona;Navarra;Spain;Jauregui Nazabal, Clara;F00148;SI
+II Ensanche;Pamplona;Calle Leyre 18-20;Pamplona;Navarra;Spain;Sarasibar Sagües, Ana Jose;F00149;SI
+II Ensanche;Pamplona;Calle Olite 39;Pamplona;Navarra;Spain;Sada/Perez/Sada Lacalle/Saenz/Perez Jose Luis/Mercedes/Maria;F00153;SI
+II Ensanche;Pamplona;Avenida Carlos III 41;Pamplona;Navarra;Spain;Remirez De Ganuza Fernandez, Carlos;F00162;SI
+II Ensanche;Pamplona;Calle Arrieta 29;Pamplona;Navarra;Spain;Martinez Zaldo, Francisco Javier;F00168;SI
+II Ensanche;Pamplona;Calle Monjardín 14;Pamplona;Navarra;Spain;Nicolas Fernandez, Maria Angeles;F00405;SI
+II Ensanche;Pamplona;Calle Aoiz 35;Pamplona;Navarra;Spain;Millan Azcune, Antonio Luis;F00572;SI
+II Ensanche;Pamplona;Calle Navarro Villoslada 12;Pamplona;Navarra;Spain;Garcia Lipuzcoa, Adriana;F00591;SI
+II Ensanche;Pamplona;Calle Bergamin 16;Pamplona;Navarra;Spain;Crespo Irizar, Ana;F00615;SI
+II Ensanche;Pamplona;Plaza Conde Rodezno 10;Pamplona;Navarra;Spain;Cobreros Bordenave, Almudena;F00656;SI
+II Ensanche;Pamplona;Calle Cataluña 8;Pamplona;Navarra;Spain;Cardona Lozano, Maria Jose;F00770;SI
+II Ensanche;Pamplona;Avenida Juan Pablo II 3;Pamplona;Navarra;Spain;Sarasa Zubeldia, Patricia;F00774;SI
+II Ensanche;Pamplona;Calle Adela Bazo 10;Pamplona;Navarra;Spain;Izarzugaza Beitia, Cristina;F00778;SI
+II Ensanche;Pamplona;Calle María Lacunza 51;Pamplona;Navarra;Spain;Barricarte Asiain, Gonzalo;F00779;SI
+II Ensanche;Pamplona;Calle Teobaldos 12;Pamplona;Navarra;Spain;Villanueva Merino, Beatriz;F00792;SI
+II Ensanche;Pamplona;Avenida Baja Navarra 11;Pamplona;Navarra;Spain;Simon Campo, Diego;F00004;SI
+Iturrama;Pamplona;Calle Pedro I 12;Pamplona;Navarra;Spain;Aldana/Aldana Moraza/Estremera, Ignacio/Iñaki;F00231;SI
+Iturrama;Pamplona;Calle Serafín Olave 25;Pamplona;Navarra;Spain;De la Merced San Martín, Celia;F00232;SI
+Iturrama;Pamplona;Calle Serafín Olave 33;Pamplona;Navarra;Spain;Muro Baglietto, Mª Arrate;F00236;SI
+Iturrama;Pamplona;Avenida Pio XII 9;Pamplona;Navarra;Spain;Muñoz Aramburu, Miren Arantza;F00141;SI
+Iturrama;Pamplona;Avenida Sancho el Fuerte 10;Pamplona;Navarra;Spain;Legarra Oroquieta, Maria;F00177;SI
+Iturrama;Pamplona;Avenida Pío XII 35;Pamplona;Navarra;Spain;Gomez Aldea, Maria Isabel;F00191;SI
+Iturrama;Pamplona;Avenida Sancho el Fuerte 67;Pamplona;Navarra;Spain;Flores Mendinueta, Ana Inmaculada;F00192;SI
+Iturrama;Pamplona;Calle Monasterio de Urdax 3;Pamplona;Navarra;Spain;Noain Yoldi, Marianela;F00200;SI
+Iturrama;Pamplona;Calle Pintor Basiano 1;Pamplona;Navarra;Spain;Girones Navarlaz, Maria;F00209;SI
+Iturrama;Pamplona;Calle Iñigo Arista 19;Pamplona;Navarra;Spain;Uriel/Uriel Rubio/Rubio MªJose/Belen;F00214;SI
+Iturrama;Pamplona;Avenida Sancho el Fuerte 31;Pamplona;Navarra;Spain;Gimeno Oses, Maria Pilar;F00502;SI
+Iturrama;Pamplona;Calle Esquíroz 20;Pamplona;Navarra;Spain;Iriarte Iribarren, Cristina;F00511;SI
+Iturrama;Pamplona;Plaza Félix Huarte 6;Pamplona;Navarra;Spain;Arana Garijo, Maria Lucia;F00530;SI
+Iturrama;Pamplona;Calle Fuente del Hierro 21 trasera;Pamplona;Navarra;Spain;Valero San Miguel, Begoña;F00540;SI
+Iturrama;Pamplona;Avenida Sancho el Fuerte 24;Pamplona;Navarra;Spain;Perez Azcona, Miren Jasone;F00659;SI
+Mendillorri;Pamplona;Calle Londres 10;Pamplona;Navarra;Spain;Guembe Fernandez de Arcaya, Maria;F00771;SI
+Mendillorri;Pamplona;Calle Concejo de Sarriguren 16;Pamplona;Navarra;Spain;Iribarren/Chocarro, Samper/Gorraiz, Beatriz/Ana;F00281;SI
+Mendillorri;Pamplona;Calle Concejo de Egüés 10;Pamplona;Navarra;Spain;Recarte Perez de Ciriza, Olimpia Sagrario;F00323;SI
+Mendillorri;Pamplona;Calle Señorío de Amocáin 13;Pamplona;Navarra;Spain;Prado Hernandez, Gemma;F00352;SI
+Mendillorri;Pamplona;Calle Concejo de Olaz 14;Pamplona;Navarra;Spain;Fernandez de Arcaya Gainza, Mª Nieves;F00455;SI
+Mendillorri;Pamplona;Calle Concejo de Sagaseta 9;Pamplona;Navarra;Spain;Moyano Dominguez, Sonia;F00490;SI
+Mendillorri;Pamplona;Calle Señorío de Egulbati 16;Pamplona;Navarra;Spain;Ramon Rojano, Maria Asuncion;F00510;SI
+Mendillorri;Pamplona;Calle Martín de Zalba 7;Pamplona;Navarra;Spain;De Fuentes Perez, Natalia;F00528;SI
+Mendillorri;Pamplona;Calle Del Lago 13;Pamplona;Navarra;Spain;Celdran Lazaro, Carmen;F00542;SI
+Milagrosa;Pamplona;Calle San Fermín 59;Pamplona;Navarra;Spain;Holgado Vicente, Regina;F00139;SI
+Milagrosa;Pamplona;Avenida Zaragoza 21;Pamplona;Navarra;Spain;Astiz Larraya, Maria Asuncion;F00151;SI
+Milagrosa;Pamplona;Calle Tajonar 2;Pamplona;Navarra;Spain;Garisoain Basarte, Maria Josefa;F00155;SI
+Milagrosa;Pamplona;Calle Gayarre 22-24;Pamplona;Navarra;Spain;San Miguel Goñi, Sagrario;F00166;SI
+Milagrosa;Pamplona;Calle Pico de Ori 8;Pamplona;Navarra;Spain;Villanueva/Villanueva Heras/Heras, Cristina/Esther;F00169;SI
+Milagrosa;Pamplona;Calle Manuel de Falla 14;Pamplona;Navarra;Spain;Rodriguez Zarzuelo, Ricardo;F00174;SI
+Milagrosa;Pamplona;Calle Río Irati 13;Pamplona;Navarra;Spain;San Julian Arrupe, Adriana;F00215;SI
+Milagrosa;Pamplona;Calle Sadar 6;Pamplona;Navarra;Spain;Barbarin Maimon, Daniel;F00217;SI
+Milagrosa;Pamplona;Calle Sangüesa 25;Pamplona;Navarra;Spain;Garcia Armendariz, Maria Teresa;F00404;SI
+Milagrosa;Pamplona;Plaza Góngora 1;Pamplona;Navarra;Spain;Rosino Rodriguez, Aurora;F00411;SI
+Milagrosa;Pamplona;Calle Tajonar 12;Pamplona;Navarra;Spain;Yoldi Erice, Cristina;F00496;SI
+Milagrosa;Pamplona;Calle Guelbenzu 50;Pamplona;Navarra;Spain;Ibañez Autor, María Pilar;F00537;SI
+Milagrosa;Pamplona;Calle Río Araxes 10;Pamplona;Navarra;Spain;Amunarriz Agueda, Maria Pilar;F00543;SI
+Milagrosa;Pamplona;Calle Guelbenzu 17;Pamplona;Navarra;Spain;Lamas Rodriguez, Monica;F00593;SI
+Milagrosa;Pamplona;Plaza Felisa Munárriz 2;Pamplona;Navarra;Spain;Cia Aldaba, Isabel;F00610;SI
+Rochapea;Pamplona;Avenida Marcelo Celayeta 4;Pamplona;Navarra;Spain;Lampreave Azanza, Luis Mariano;F00012;SI
+Rochapea;Pamplona;Plaza Iturriotzeaga 4 (trasera);Pamplona;Navarra;Spain;Goñi Latasa, Mercedes;F00147;SI
+Rochapea;Pamplona;Avenida Marcelo Celayeta 47;Pamplona;Navarra;Spain;Oficialdegui Esparza, Juan;F00157;SI
+Rochapea;Pamplona;Calle Ochagavía 4;Pamplona;Navarra;Spain;Diaz-Leante/Diaz-Leante Martinez/Martinez, Laura/Marina;F00171;SI
+Rochapea;Pamplona;Avenida Marcelo Celayeta 99;Pamplona;Navarra;Spain;Torres Suescun, Elena;F00178;SI
+Rochapea;Pamplona;Calle Artica 14;Pamplona;Navarra;Spain;Aguirre Esparz, Genoveva;F00181;SI
+Rochapea;Pamplona;Paseo Enamorados 31;Pamplona;Navarra;Spain;Gutierrez/Purroy Gurtubay/Gutierrez, Josefa/Mª Jose;F00201;SI
+Rochapea;Pamplona;Calle Cruz de Barkazio 7;Pamplona;Navarra;Spain;Armendariz Gonzalez, Maria del Mar;F00326;SI
+Rochapea;Pamplona;Calle Pedro de Ursúa 4;Pamplona;Navarra;Spain;Recalde Irañeta, Rebeca;F00460;SI
+Rochapea;Pamplona;Calle Joaquín Beúnza 39;Pamplona;Navarra;Spain;Garralda/Fernandez de Aguirre Montaño/Martinez, Maria Jose/Blanca;F00461;SI
+Rochapea;Pamplona;Calle Ezcaroz 2;Pamplona;Navarra;Spain;Munarriz Barcos, Leonor;F00464;SI
+Rochapea;Pamplona;Paseo Enamorados 45;Pamplona;Navarra;Spain;Belzunce Saldise, Alicia;F00465;SI
+Rochapea;Pamplona;Calle Raimundo Lanas 12 trasera;Pamplona;Navarra;Spain;Santesteban Jimenez, Maite;F00477;SI
+Rochapea;Pamplona;Calle Bernardino Tirapu 54;Pamplona;Navarra;Spain;Casanova/Ruiz Lopez/Orte, Maria Auxiliadora /Maria Isabel;F00485;SI
+Rochapea;Pamplona;Calle Ansoáin 4;Pamplona;Navarra;Spain;Abad Martinez, Berta;F00500;SI
+Rochapea;Pamplona;Avenida Marcelo Celayeta 123-125;Pamplona;Navarra;Spain;Rodero Preciado, Patricia;F00505;SI
+Rochapea;Pamplona;Calle Isaba 18;Pamplona;Navarra;Spain;Fernandez/Labat Belzunce/Artajo, Ana/Cristina;F00514;SI
+Rochapea;Pamplona;Calle Tiburcio Redín 3;Pamplona;Navarra;Spain;Fernandino Aragon, Begoña;F00526;SI
+Rochapea;Pamplona;Calle Cendeas 2;Pamplona;Navarra;Spain;Navarro Blasco, Julian;F00551;SI
+Rochapea;Pamplona;Calle Joaquín Beunza 24;Pamplona;Navarra;Spain;Alvarez/Chiquirrin Galan/Azqueta, Patricia/Ana;F00569;SI
+Rochapea;Pamplona;Paseo Anelier 18;Pamplona;Navarra;Spain;Monente Mozaz, Ana;F00574;SI
+Rochapea;Pamplona;Avenida Marcelo Celayeta 72;Pamplona;Navarra;Spain;Esain Palomero, Maria Mercedes;F00577;SI
+Rochapea;Pamplona;Paseo Anelier 24;Pamplona;Navarra;Spain;Uriz Lopez, Maria Laura;F00589;SI
+Rochapea;Pamplona;Calle Bernardino Tirapu 3;Pamplona;Navarra;Spain;Arbizu Ros, Beatriz;F00645;SI
+Rochapea;Pamplona;Calle Carmen Baroja Nessi 23;Pamplona;Navarra;Spain;Casado/Casado Echavarri/Echavarri, Manuel/Elvira;F00722;SI
+San Jorge;Pamplona;Carretera San Sebastián Km.1. Hipermercado Eroski.;Pamplona;Navarra;Spain;Valdemoros Erro, Laura;F00011;SI
+San Jorge;Pamplona;Calle Dr. Juaristi 1;Pamplona;Navarra;Spain;Liberal Romero, Esperanza;F00175;SI
+San Jorge;Pamplona;Calle Dr. Gortari 1;Pamplona;Navarra;Spain;Liberal Romero, Alicia;F00193;SI
+San Jorge;Pamplona;Calle Dr. Repáraz 6;Pamplona;Navarra;Spain;Zozaya Alvarez, Marta;F00197;SI
+San Jorge;Pamplona;Calle Dr. Galán 2;Pamplona;Navarra;Spain;Bañuelos Valderrama, Zuriñe;F00219;SI
+San Jorge;Pamplona;Paseo Sandúa 42;Pamplona;Navarra;Spain;Gogorza Moreno, Gloria;F00373;SI
+San Jorge;Pamplona;Avenida San Jorge 63;Pamplona;Navarra;Spain;Vilariño Ariz, Eduardo;F00431;SI
+San Jorge;Pamplona;Paseo Sandúa 22;Pamplona;Navarra;Spain;Iñarra/Linzoain Castiella/Belzarena Luisa/Mª Cruz;F00434;SI
+San Jorge;Pamplona;Travesia del Muelle 2-4;Pamplona;Navarra;Spain;Sagaseta de Ilurdoz Uranga, Juan Luis;F00517;SI
+San Jorge;Pamplona;Calle Dr. José Alfonso 5;Pamplona;Navarra;Spain;Goñi Medrano, Luisa;F00536;SI
+San Jorge;Pamplona;Avenida Navarra, trasera de Dr. Simonena, 8;Pamplona;Navarra;Spain;Bujanda Eguino, Cesar;F00681;SI
+San Jorge;Pamplona;Calle Doctor Alexander Fleming 9;Pamplona;Navarra;Spain;Lopez-Camacho Roncero, Carolina;F00798;SI
+San Juan;Pamplona;Calle Martín Azpilicueta 7;Pamplona;Navarra;Spain;Sola Casas, Maria Jesus;F00158;SI
+San Juan;Pamplona;Calle Monasterio de la Oliva 48;Pamplona;Navarra;Spain;Sola Casas, Maria Cristina;F00167;SI
+San Juan;Pamplona;Avenida Barañáin 6;Pamplona;Navarra;Spain;Hanna, Hanneh Georgi;F00176;SI
+San Juan;Pamplona;Calle Virgen de Ujué 5;Pamplona;Navarra;Spain;Val/Zoco Lampreabe/Lampreabe Elena/Ricardo;F00180;SI
+San Juan;Pamplona;Avenida Bayona, s/n. Esquina Pl. Obispo Irurita, 1;Pamplona;Navarra;Spain;Muñoz Aramburu, Javier;F00184;SI
+San Juan;Pamplona;Avenida Bayona 24;Pamplona;Navarra;Spain;Cabiro Echeverria, Cristina;F00190;SI
+San Juan;Pamplona;Calle Monasterio de Urdax 51;Pamplona;Navarra;Spain;Martinez Ezquieta, Jasone;F00194;SI
+San Juan;Pamplona;Calle Monasterio de la Oliva 1;Pamplona;Navarra;Spain;Amilivia Alvarez, Ines;F00203;SI
+San Juan;Pamplona;Calle La Asunción 6;Pamplona;Navarra;Spain;Val/Val Lampreabe/Lampreabe Julia/Mª Teresa;F00210;SI
+San Juan;Pamplona;Avenida Barañáin 20;Pamplona;Navarra;Spain;Berraondo Lopez, Beatriz;F00220;SI
+San Juan;Pamplona;Avenida Sancho el Fuerte 73;Pamplona;Navarra;Spain;Barbarin Olleta, Rosa Elena;F00221;SI
+San Juan;Pamplona;Calle Virgen del Puy 11;Pamplona;Navarra;Spain;Ros/Ros /Rodriguez Rodriguez, Idoia/Marta;F00224;SI
+San Juan;Pamplona;Plaza San Juan de la Cadena 3;Pamplona;Navarra;Spain;Martinez Eslava, Maria;F00395;SI
+San Juan;Pamplona;Calle Monasterio de Irache 16;Pamplona;Navarra;Spain;Ojer Martinez, Raquel;F00427;SI
+San Juan;Pamplona;Calle Monasterio de Tulebras 1;Pamplona;Navarra;Spain;Zuñiga Olaso, Ana Maria;F00487;SI
+San Juan;Pamplona;Calle Monasterio de Urdax 23;Pamplona;Navarra;Spain;Sahuquillo Arratibel, Marta;F00501;SI
+San Juan;Pamplona;Avenida Pío XII 18;Pamplona;Navarra;Spain;Garmendia Leiza, Estibaliz;F00558;SI
+San Juan;Pamplona;Calle Monasterio de Irache 45;Pamplona;Navarra;Spain;Casares Polo, Ines;F00563;SI
+San Juan;Pamplona;Calle Monasterio de Irache 34;Pamplona;Navarra;Spain;Arbeloa Roch, Maria Isabel;F00588;SI
+San Juan;Pamplona;Avenida Bayona 37;Pamplona;Navarra;Spain;Arriazu Aranceta, Berta;F00618;SI
+San Juan;Pamplona;Calle Monasterio de la Oliva 7 bis;Pamplona;Navarra;Spain;Basarte Camuel, Maria;F00634;SI
+San Juan;Pamplona;Calle Monasterio de la Oliva 31;Pamplona;Navarra;Spain;Beroiz Soria, Ignacio;F00703;SI
+San Juan;Pamplona;Plaza Obispo Irurita 6 trasera;Pamplona;Navarra;Spain;Camps Segui, Emilio;F00689;SI
+San Juan;Pamplona;Calle Monasterio de Urdax 21;Pamplona;Navarra;Spain;Carrascal Del Solar, Isabel;F00784;SI
+San Juan;Pamplona;Paseo Jose Maria Lacarra 1-3;Pamplona;Navarra;Spain;Redin Goñi, Cristina;F00791;SI
+Peralta;Peralta;Avenida de la Paz 42;Peralta;Navarra;Spain;Bueno Farrer, Maria Peña;F00021;NO
+Peralta;Peralta;Avenida de la Paz 4;Peralta;Navarra;Spain;Jimenez Moreno, Maria Jose;F00446;NO
+Peralta;Peralta;Calle Irurzun 10;Peralta;Navarra;Spain;Irisarri Moreno, Cristina;F00518;NO
+Peralta;Peralta;Calle Blanca de Navarra 13;Peralta;Navarra;Spain;Palacios Chaurrondo, Raquel;F00592;NO
+Peralta;Peralta;Calle Del rio 45;Peralta;Navarra;Spain;Dominguez Marquez, Angel;F00691;NO
+Olite;Pitillas;Calle El Sol 53;Pitillas;Navarra;Spain;Jimenez Obis, Pilar;F00253;NO
+Puente la reina;Puente la Reina;Paseo Fray Vicente Bernedo 24;Puente la Reina;Navarra;Spain;Gonzalez Valencia, Javier;F00079;NO
+Puente la reina;Puente la Reina;Calle La Población 21;Puente la Reina;Navarra;Spain;Rehecho Perez, Sheyla;F00385;NO
+Puente la reina;Puente la Reina;Calle Cerco Nuevo 38;Puente la Reina;Navarra;Spain;Huarte Ros, Izaskun;F00492;NO
+Olite;Rada;Avenida de Navarra 20;Rada;Navarra;Spain;Ayala Gutierrez, Ana;F00294;NO
+Buñuel;Ribaforada;Calle Parlamento Navarro 17;Ribaforada;Navarra;Spain;Calvo Tutor, Jesus Alberto;F00578;NO
+Buñuel;Ribaforada;Calle San Juan 28;Ribaforada;Navarra;Spain;Calahorra Urzaiz, Maria Jesus;F00602;NO
+Buñuel;Ribaforada;Avenida Diputación 7;Ribaforada;Navarra;Spain;Pardo Martinez, Begoña;F00684;NO
+Isaba;Roncal;Calle Iriartea s/n;Roncal;Navarra;Spain;Sanjuan Elizondo, Javier;F00277;NO
+San Adrian;San Adrián;Carretera de Estella 18;San Adrián;Navarra;Spain;Manero Sanchez, Maria Rosario;F00299;NO
+San Adrian;San Adrián;Calle Pelayo Sola 10;San Adrián;Navarra;Spain;Arce Zubiria, Javier;F00440;NO
+San Adrian;San Adrián;Calle Santa Gema 30;San Adrián;Navarra;Spain;Moreno Sola, Beatriz;F00533;NO
+San Adrian;San Adrián;Carretera Estella 77 bis;San Adrián;Navarra;Spain;Gimeno Hernandez, Olga;F00541;NO
+San Adrian;San Adrián;Calle San José Obrero 71;San Adrián;Navarra;Spain;Sola Manero, Miguel;F00557;NO
+San Adrian;San Adrián;Calle Vera de Magallon 8;San Adrián;Navarra;Spain;Sanz Milian, Magdalena;F00623;NO
+Olite;San Martín de Unx;Calle Padre Sales Muruzabal 3;San Martín de Unx;Navarra;Spain;Remon Zoroza, Eva;F00041;NO
+Sangüesa;Sangüesa;Calle Mayor 77;Sangüesa;Navarra;Spain;Lopez Santamaria, Tomas Ignacio;F00027;NO
+Sangüesa;Sangüesa;Calle Mayor 30;Sangüesa;Navarra;Spain;Ruiz Sanchez, Tomas;F00101;NO
+Sangüesa;Sangüesa;Calle Enrique de Labrit 56;Sangüesa;Navarra;Spain;Sanchis Rodrigo, Antonio;F00410;NO
+Sangüesa;Sangüesa;Plaza Portal Peñalta 8;Sangüesa;Navarra;Spain;Pisano Lacunza, Vanessa;F00428;NO
+Sangüesa;Sangüesa;Avenida Aragón 4;Sangüesa;Navarra;Spain;Miranda Lopez, Francisco Javier;F00445;NO
+Los Arcos;Sansol;Calle Barrio Nuevo s/n;Sansol;Navarra;Spain;Elias Calvo, Ignacio Javier;F00817;NO
+Carcastillo;Santacara;Calle La Iglesia 10;Santacara;Navarra;Spain;Nuñez Gonzalez, Manuel;F00102;NO
+Carcastillo;Santacara;Carretera Aibar 88;Santacara;Navarra;Spain;Lasterra Ibañez, Margarita;F00416;NO
+Mendillorri;Sarriguren;Calle Bardenas Reales 50;Sarriguren;Navarra;Spain;Lecumberri Larrea, Aitziber;F00629;SI
+Mendillorri;Sarriguren;Avenida Reino de Navarra 6;Sarriguren;Navarra;Spain;Leoz Lanchetas, Santiago;F00639;SI
+Mendillorri;Sarriguren;Calle Bardenas Reales 30;Sarriguren;Navarra;Spain;Diaz Hernan, Ana Maria;F00649;SI
+Mendillorri;Sarriguren;Plaza Mayor 35;Sarriguren;Navarra;Spain;Alcain Arratibel, Itziar;F00660;SI
+Mendillorri;Sarriguren;Calle Bardenas Reales 70;Sarriguren;Navarra;Spain;Arzoz/Astiz Lezaun/Arzoz, Maria Pilar/Maite;F00711;SI
+Mendillorri;Sarriguren;Calle Badostain 1 bajo;Sarriguren;Navarra;Spain;Fernandez Ejea, Marta;F00673;SI
+Mendillorri;Sarriguren;Plaza Puerta de Aranguren 1;Sarriguren;Navarra;Spain;Narro/Martinez Garcia/Crespo, Susana/Francisco Javier;F00704;SI
+Mendillorri;Sarriguren;Avenida Erripagaña 24;Sarriguren;Navarra;Spain;Ballesteros Morales, Francisco Javier;F00731;SI
+Lodosa;Sartaguda;Calle Julián Retegui 30;Sartaguda;Navarra;Spain;Echarri Mayayo, Rosario;F00252;NO
+Lodosa;Sartaguda;Carretera Lodosa 17;Sartaguda;Navarra;Spain;Laparra Lavega, Diana;F00695;NO
+Lodosa;Sesma;Calle Del Olmo 3;Sesma;Navarra;Spain;Casadamon Andres, Laura;F00237;NO
+Doneztebe/Santesteban;Sunbilla;Calle Mayor s/n;Sunbilla;Navarra;Spain;Iglesias Diago, Olivia;F00263;NO
+Tafalla;Tafalla;Plaza Navarra 9;Tafalla;Navarra;Spain;Castiella Iribas, Maria Luisa;F00046;SI
+Tafalla;Tafalla;Calle San Martín de Unx 9;Tafalla;Navarra;Spain;Bañon/Bañon/Bañon Pinar/Pinar/Pinar, Miguel A/Ana/Mª Luz;F00098;SI
+Tafalla;Tafalla;Calle Mayor 31;Tafalla;Navarra;Spain;Coronas Orzanco, Amparo;F00103;SI
+Tafalla;Tafalla;Calle San Isidro 34;Tafalla;Navarra;Spain;Arrondo Arbea, Felisa;F00274;SI
+Tafalla;Tafalla;Avenida Baja Navarra 9;Tafalla;Navarra;Spain;Zubiri Ayerra, Blanca;F00360;SI
+Tafalla;Tafalla;Calle Sansomain, 6, esq. C/ Barasoain;Tafalla;Navarra;Spain;Echeverria Burguete, Maria Esther;F00390;SI
+Tafalla;Tafalla;Calle Beire 5;Tafalla;Navarra;Spain;Aznar Lizarbe, Raquel;F00397;SI
+Tafalla;Tafalla;Calle Republica Argentina 3;Tafalla;Navarra;Spain;Villar Zabaleta, Maria Teresa;F00407;SI
+Tafalla;Tafalla;Calle Diputación Foral 12;Tafalla;Navarra;Spain;Guindano Elizalde, Ana Belen;F00418;SI
+Tafalla;Tafalla;Calle Camino Miranda 8;Tafalla;Navarra;Spain;Tesan Urchaga, Jose Luis;F00463;SI
+Tafalla;Tafalla;Poligono Fuente del Rey Pab. A, 10;Tafalla;Navarra;Spain;Marco Apesteguia, Cristina;F00601;SI
+Noain;Tiebas;Carretera Zaragoza s/n;Tiebas;Navarra;Spain;Madoz Labaca, Marta;F00259;NO
+Tudela este;Tudela;Avenida Zaragoza 29-31;Tudela;Navarra;Spain;Remon Huarte, Monica Lidia;F00033;NO
+Tudela este;Tudela;Avenida Santa Ana 22;Tudela;Navarra;Spain;Pascual Ramirez, Mercedes;F00156;NO
+Tudela este;Tudela;Calle Cuesta de la Estación 12;Tudela;Navarra;Spain;Blazquez Gonzalez, Maria Asuncion;F00268;NO
+Tudela este;Tudela;Calle Carlos III El Noble 6;Tudela;Navarra;Spain;Martinez Miranda, Jose Angel;F00347;NO
+Tudela este;Tudela;Carretera Zaragoza C.Comercial EROSKI;Tudela;Navarra;Spain;Asin Aicua, Raquel;F00357;NO
+Tudela este;Tudela;Calle Cuesta de Loreto 3;Tudela;Navarra;Spain;Serrano Osta, Maria Concepcion;F00419;NO
+Tudela este;Tudela;Calle Fuente Canónigos 16;Tudela;Navarra;Spain;Izquierdo/Zuñiga Monje/Cia, Joaquina/Alicia;F00424;NO
+Tudela este;Tudela;Calle Aranaz y Vides 10;Tudela;Navarra;Spain;Gimeno Oses, Maria Carmen;F00467;NO
+Tudela este;Tudela;Calle San Marcial 16;Tudela;Navarra;Spain;Medrano/Prada Villar/Rondan, Angeles/Jesus A.;F00499;NO
+Tudela este;Tudela;Calle Griseras 11;Tudela;Navarra;Spain;Riau Ibarz, Rosa;F00535;NO
+Tudela este;Tudela;Calle Gardachales 5;Tudela;Navarra;Spain;Melendez Moreno, Rosa;F00539;NO
+Tudela este;Tudela;Calle Manresa 12;Tudela;Navarra;Spain;Marin Ciria, Eva Maria;F00548;NO
+Tudela este;Tudela;Calle Paloteado 6;Tudela;Navarra;Spain;Pascual Ramirez, Enrique;F00559;NO
+Tudela este;Tudela;Calle Blanca de Navarra 1;Tudela;Navarra;Spain;Peña Martinez, Natalia;F00570;NO
+Tudela este;Tudela;Calle El Frontón 7;Tudela;Navarra;Spain;Lopez Lopez, Manuel;F00573;NO
+Tudela este;Tudela;Avenida Zaragoza 51;Tudela;Navarra;Spain;Carrion Perez, Nestor;F00630;NO
+Tudela este;Tudela;Plaza Azucarera 5;Tudela;Navarra;Spain;Latorre Marco, Raquel;F00632;NO
+Tudela este;Tudela;Calle Juan A. Fernández 39;Tudela;Navarra;Spain;Hernandez Sahuquillo, Maximiliano;F00693;NO
+Tudela este;Tudela;Calle Melchor Enrico 9;Tudela;Navarra;Spain;Vela Lamana, Ainhoa;F00688;NO
+Tudela oeste;Tudela;Calle Amigos del País 2;Tudela;Navarra;Spain;Margallo Lana, Rosario;F00048;NO
+Tudela oeste;Tudela;Calle Gaztambide 4;Tudela;Navarra;Spain;Arellano Diaz, Javier;F00083;NO
+Tudela oeste;Tudela;Calle Yanguas y Miranda 11;Tudela;Navarra;Spain;Chueca/Chueca Perez/Perez, Ana Maria/Estefania;F00091;NO
+Tudela oeste;Tudela;Calle Tejerías 1;Tudela;Navarra;Spain;Arroyo Lopez, Gabriel Manuel;F00306;NO
+Tudela oeste;Tudela;Calle Díaz Bravo 7 - esq. C/ Almazara;Tudela;Navarra;Spain;Arana Castelo, Elsa;F00483;NO
+Tudela oeste;Tudela;Plaza Sancho VII el Fuerte 5;Tudela;Navarra;Spain;Martinez Forcada, Belen;F00486;NO
+Tudela oeste;Tudela;Calle Herrerías 29;Tudela;Navarra;Spain;Oliver Botana, Jesus;F00538;NO
+Tudela oeste;Tudela;Calle Gayarre 14;Tudela;Navarra;Spain;Jimenez Lopez, Rosario;F00555;NO
+Tudela oeste;Tudela;Calle Concarera 12;Tudela;Navarra;Spain;Mantilla Blanco, Alberto;F00568;NO
+Tudela oeste;Tudela;Calle C.C. Carrefour - Ctra. Tarazona s/n;Tudela;Navarra;Spain;Gonzalez Romero, Juan Jose;F00692;NO
+Tudela oeste;Tudela;Calle Albalá 4;Tudela;Navarra;Spain;Garcia Andres, Guillermo;F00766;NO
+Tudela oeste;Tudela;Calle Miguel Eza 4;Tudela;Navarra;Spain;Acacio Mañas, Maria;F00777;NO
+Tudela oeste;Tudela;Paseo Capuchinas 33;Tudela;Navarra;Spain;Morte Casado, Leticia Alba;F00761;NO
+Irurtzun;Uharte-Arakil;Calle Felipe Gorriti 9;Uharte-Arakil;Navarra;Spain;Azurmendi Lopez, Garbiñe;F00034;NO
+Irurtzun;Uharte-Arakil;Calle Felipe Gorriti 35;Uharte-Arakil;Navarra;Spain;Huarte Elordi, Mª Victoria;F00493;NO
+Elizondo;Urdax;Calle Barrio Dancharinea 14;Urdax;Navarra;Spain;Gamazo de la Rasilla, Maria Asuncion;F00249;NO
+Elizondo;Urdax;Calle Juan Aguirre 5;Urdax;Navarra;Spain;Oyarzabal Ibarra, Miren;F00635;NO
+Etxarri-Aranatz;Urdiain;Calle Bentalde 2;Urdiain;Navarra;Spain;Suarez Bugallo, Natividad;F00247;NO
+Aoiz;Urrotz;Calle Santo Tomás 5;Urrotz;Navarra;Spain;Iturgaiz Etayo, Blanca;F00322;NO
+Valtierra-Cadreita;Valtierra;Calle Las Salinas 26;Valtierra;Navarra;Spain;Saez de Jauregui Urdanoz, Laura;F00124;NO
+Valtierra-Cadreita;Valtierra;Plaza de los Derechos Humanos 3;Valtierra;Navarra;Spain;Saez de Jauregui Urdanoz, Pedro;F00507;NO
+Viana;Viana;Calle Rua de Santa María 10;Viana;Navarra;Spain;Martinez Garcia, Francisco Javier;F00093;NO
+Viana;Viana;Calle Serapio Urra s/n;Viana;Navarra;Spain;Pellejero Gomez de Segura, Luis Fernando;F00388;NO
+Viana;Viana;Calle Santo Nicasio 2;Viana;Navarra;Spain;Garcia Mesa, Maria Soledad;F00392;NO
+Viana;Viana;Calle La Solana 25;Viana;Navarra;Spain;Palacios Breton, Carlos Jose;F00585;NO
+Viana;Viana;Calle La Pila 19;Viana;Navarra;Spain;Lopez de Murillas Suescun, Ana Belen;F00718;NO
+Valtierra-Cadreita;Villafranca;Plaza Donantes de Sangre 1;Villafranca;Navarra;Spain;Mendieta Ruiz de Mendoza, Josefina;F00042;NO
+Valtierra-Cadreita;Villafranca;Plaza Calahorra 1;Villafranca;Navarra;Spain;Garcia Arrieta, Paula;F00363;NO
+Valtierra-Cadreita;Villafranca;Calle León 9;Villafranca;Navarra;Spain;Castillejo Celigueta, Maite;F00717;NO
+Villatuerta;Villatuerta;Calle Mayor s/n;Villatuerta;Navarra;Spain;Araiz Martinez, Maria Puy;F00245;NO
+Villava/Atarrabia;Villava;Calle Mayor 9;Villava;Navarra;Spain;Erro Azcarate, Maria Arantzazu;F00025;SI
+Villava/Atarrabia;Villava;Plaza Miguel Induráin 6;Villava;Navarra;Spain;Menendez/Menendez Perez/Perez, Alberto/Miguel;F00228;SI
+Villava/Atarrabia;Villava;Plaza Sancho VI el Sabio 4;Villava;Navarra;Spain;Redondo Iriso, Blanca;F00351;SI
+Villava/Atarrabia;Villava;Calle Bidaburua 6;Villava;Navarra;Spain;Gonzalez Laborie, Maria Teresa;F00484;SI
+Villava/Atarrabia;Villava;Calle Las Eras 7;Villava;Navarra;Spain;Donezar/Gil Aranguren/Diaz, Ignacio/Carmen;F00524;SI
+Villava/Atarrabia;Villava;Calle San Andrés 4;Villava;Navarra;Spain;Serrano Sarasa, Susana;F00560;SI
+Villava/Atarrabia;Villava;Calle Agustín García 16;Villava;Navarra;Spain;Del Valle Ledesma, Alvaro;F00583;SI
+Sangüesa;Yesa;Carretera Confederacion Hidrografica del Ebro 4;Yesa;Navarra;Spain;Platero Alonso, Lourdes;F00288;NO
+Altsasu/Alsasua;Ziordia;Calle Solana 12;Ziordia;Navarra;Spain;Sainz Pezonaga, Mercedes;F00320;NO
+Cizur;Zizur Mayor;Calle Erreniega 22;Zizur Mayor;Navarra;Spain;Albeniz Gale, Iker Eduardo;F00233;SI
+Cizur;Zizur Mayor;Parque Erreniega 66;Zizur Mayor;Navarra;Spain;Carmona Viniegra, Alejandro;F00305;SI
+Cizur;Zizur Mayor;Calle Parque de los Olmos 8;Zizur Mayor;Navarra;Spain;Catala Navarro, Monica;F00337;SI
+Cizur;Zizur Mayor;Calle Zabalgaina 4;Zizur Mayor;Navarra;Spain;Arzoz Lezaun, Maria Josefa;F00340;SI
+Cizur;Zizur Mayor;Calle Santa Cruz 41;Zizur Mayor;Navarra;Spain;Murillo Martin, Mª Isabel;F00372;SI
+Cizur;Zizur Mayor;Calle Santa Cruz 5;Zizur Mayor;Navarra;Spain;Elizari/Hernandez Artigas/Artigas Ana Isabel/Susana;F00413;SI
+Cizur;Zizur Mayor;Plaza de los Fueros de Navarra 4;Zizur Mayor;Navarra;Spain;Barcos Diaz, Raquel;F00429;SI
+Cizur;Zizur Mayor;Calle Mindegui 1;Zizur Mayor;Navarra;Spain;Paredes Puente, Ana;F00729;SI
+Huarte;Zubiri;Calle Río Arga 33-35;Zubiri;Navarra;Spain;Liso Aldaz, Maria Jose;F00255;NO
